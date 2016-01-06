@@ -6,3 +6,4 @@
 !_TAG_PROGRAM_VERSION	5.8	//
 RockPaperScissorsIcbm	/Users/kitlangton/Viking/Unit4/rock_paper_scissors_icbm/lib/rock_paper_scissors_icbm.rb	/^module RockPaperScissorsIcbm$/;"	m
 RockPaperScissorsIcbm	/Users/kitlangton/Viking/Unit4/rock_paper_scissors_icbm/lib/rock_paper_scissors_icbm/version.rb	/^module RockPaperScissorsIcbm$/;"	m
+play	/Users/kitlangton/Viking/Unit4/rock_paper_scissors_icbm/lib/rock_paper_scissors_icbm.rb	/^  def self.play$/;"	F	class:RockPaperScissorsIcbm

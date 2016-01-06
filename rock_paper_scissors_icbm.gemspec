@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A simple Rock, Paper, Scissors CLI — with global consequences.}
   spec.description   = %q{A simple Rock, Paper, Scissors CLI — with global consequences.}
-  spec.homepage      = "www.google.com"
+  spec.homepage      = "https://github.com/kitlangton/assignment_gems_sprint"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
