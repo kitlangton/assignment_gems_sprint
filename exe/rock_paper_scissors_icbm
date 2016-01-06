@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'rock_paper_scissors_icbm'
+
+RockPaperScissorsIcbm.play
